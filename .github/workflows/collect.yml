@@ -1,1 +1,46 @@
+name: 🚀 STRUGGLE AI - Auto Price Collector
 
+on:
+  # Auto run every 5 minutes
+  schedule:
+    - cron: '*/5 * * * *'
+  
+  # Manual trigger button
+  workflow_dispatch:
+  
+  # Run on push (for testing)
+  push:
+    branches:
+      - main
+
+jobs:
+  collect-prices:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: 📦 Install Dependencies
+        run: |
+          pip install requests pytz
+      
+      - name: 🚀 Run Price Collector
+        run: python collect_prices.py
+      
+      - name: 💾 Commit & Push Data
+        run: |
+          git config user.name "STRUGGLE AI Bot"
+          git config user.email "bot@struggleai.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "📊 Auto-update prices: $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
