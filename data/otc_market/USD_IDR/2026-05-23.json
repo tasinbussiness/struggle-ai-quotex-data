@@ -1,7 +1,7 @@
 {
   "pair": "USD/IDR-OTC",
   "market_type": "otc",
-  "last_updated": "2026-05-23 04:54:39",
+  "last_updated": "2026-05-23 06:07:37",
   "candles": [
     {
       "time": "06:29:00",
@@ -231,15 +231,6 @@
     {
       "time": "01:55:00",
       "timestamp": 1779479700,
-      "open": 17712.0,
-      "high": 17712.0,
-      "low": 17712.0,
-      "close": 17712.0,
-      "volume": 0
-    },
-    {
-      "time": "01:55:19",
-      "timestamp": 1779479719,
       "open": 17712.0,
       "high": 17712.0,
       "low": 17712.0,
