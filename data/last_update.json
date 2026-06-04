@@ -1,7 +1,7 @@
 {
-  "last_collection": "2026-06-04 04:50:54",
-  "success": 41,
-  "failed": 0,
+  "last_collection": "2026-06-04 06:25:00",
+  "success": 37,
+  "failed": 4,
   "total_pairs": 41,
   "is_weekend": false,
   "real_market": "open",
