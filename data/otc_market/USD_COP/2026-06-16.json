@@ -1,7 +1,7 @@
 {
   "pair": "USD/COP-OTC",
   "market_type": "otc",
-  "last_updated": "2026-06-16 13:38:53",
+  "last_updated": "2026-06-16 18:30:06",
   "candles": [
     {
       "time": "06:09:00",
@@ -103,12 +103,30 @@
       "volume": 0
     },
     {
-      "time": "13:00:01",
-      "timestamp": 1781593201,
+      "time": "14:00:00",
+      "timestamp": 1781596800,
       "open": 3490.0,
       "high": 3490.0,
       "low": 3490.0,
       "close": 3490.0,
+      "volume": 0
+    },
+    {
+      "time": "15:00:00",
+      "timestamp": 1781600400,
+      "open": 3490.0,
+      "high": 3490.0,
+      "low": 3428.5,
+      "close": 3428.5,
+      "volume": 0
+    },
+    {
+      "time": "15:00:13",
+      "timestamp": 1781600413,
+      "open": 3428.5,
+      "high": 3428.5,
+      "low": 3428.5,
+      "close": 3428.5,
       "volume": 0
     }
   ],
