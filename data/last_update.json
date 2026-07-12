@@ -1,9 +1,9 @@
 {
-  "last_collection": "2026-07-12 23:35:29",
-  "success": 21,
+  "last_collection": "2026-07-13 00:33:37",
+  "success": 41,
   "failed": 0,
   "total_pairs": 41,
-  "is_weekend": true,
-  "real_market": "closed",
+  "is_weekend": false,
+  "real_market": "open",
   "otc_market": "open"
 }
