@@ -1,7 +1,7 @@
 {
   "pair": "USD/ARS-OTC",
   "market_type": "otc",
-  "last_updated": "2026-07-14 22:36:04",
+  "last_updated": "2026-07-14 23:45:21",
   "candles": [
     {
       "time": "08:25:00",
@@ -184,8 +184,89 @@
       "volume": 0
     },
     {
-      "time": "22:14:44",
-      "timestamp": 1784045684,
+      "time": "22:14:00",
+      "timestamp": 1784045640,
+      "open": 1472.5,
+      "high": 1472.5,
+      "low": 1472.5,
+      "close": 1472.5,
+      "volume": 0
+    },
+    {
+      "time": "22:36:00",
+      "timestamp": 1784046960,
+      "open": 1472.0,
+      "high": 1472.0,
+      "low": 1472.0,
+      "close": 1472.0,
+      "volume": 0
+    },
+    {
+      "time": "22:39:00",
+      "timestamp": 1784047140,
+      "open": 1472.5,
+      "high": 1472.5,
+      "low": 1472.5,
+      "close": 1472.5,
+      "volume": 0
+    },
+    {
+      "time": "22:45:00",
+      "timestamp": 1784047500,
+      "open": 1473.0,
+      "high": 1473.0,
+      "low": 1473.0,
+      "close": 1473.0,
+      "volume": 0
+    },
+    {
+      "time": "22:52:00",
+      "timestamp": 1784047920,
+      "open": 1473.0,
+      "high": 1473.0,
+      "low": 1473.0,
+      "close": 1473.0,
+      "volume": 0
+    },
+    {
+      "time": "23:15:00",
+      "timestamp": 1784049300,
+      "open": 1473.0,
+      "high": 1473.0,
+      "low": 1473.0,
+      "close": 1473.0,
+      "volume": 0
+    },
+    {
+      "time": "23:20:00",
+      "timestamp": 1784049600,
+      "open": 1473.0,
+      "high": 1473.0,
+      "low": 1473.0,
+      "close": 1473.0,
+      "volume": 0
+    },
+    {
+      "time": "23:31:00",
+      "timestamp": 1784050260,
+      "open": 1473.0,
+      "high": 1473.0,
+      "low": 1472.5,
+      "close": 1472.5,
+      "volume": 0
+    },
+    {
+      "time": "23:37:00",
+      "timestamp": 1784050620,
+      "open": 1472.5,
+      "high": 1472.5,
+      "low": 1472.5,
+      "close": 1472.5,
+      "volume": 0
+    },
+    {
+      "time": "23:40:49",
+      "timestamp": 1784050849,
       "open": 1472.5,
       "high": 1472.5,
       "low": 1472.5,
