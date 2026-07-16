@@ -1,7 +1,7 @@
 {
   "pair": "USD/ARS-OTC",
   "market_type": "otc",
-  "last_updated": "2026-07-16 20:51:11",
+  "last_updated": "2026-07-16 22:09:57",
   "candles": [
     {
       "time": "07:04:00",
@@ -265,12 +265,102 @@
       "volume": 0
     },
     {
-      "time": "20:45:46",
-      "timestamp": 1784213146,
+      "time": "20:45:00",
+      "timestamp": 1784213100,
       "open": 1474.0,
       "high": 1474.0,
       "low": 1474.0,
       "close": 1474.0,
+      "volume": 0
+    },
+    {
+      "time": "20:53:00",
+      "timestamp": 1784213580,
+      "open": 1474.0,
+      "high": 1474.0,
+      "low": 1474.0,
+      "close": 1474.0,
+      "volume": 0
+    },
+    {
+      "time": "20:54:00",
+      "timestamp": 1784213640,
+      "open": 1474.0,
+      "high": 1474.0,
+      "low": 1474.0,
+      "close": 1474.0,
+      "volume": 0
+    },
+    {
+      "time": "20:55:00",
+      "timestamp": 1784213700,
+      "open": 1474.0,
+      "high": 1474.0,
+      "low": 1474.0,
+      "close": 1474.0,
+      "volume": 0
+    },
+    {
+      "time": "20:59:00",
+      "timestamp": 1784213940,
+      "open": 1474.0,
+      "high": 1474.0,
+      "low": 1474.0,
+      "close": 1474.0,
+      "volume": 0
+    },
+    {
+      "time": "21:00:00",
+      "timestamp": 1784214000,
+      "open": 1474.0,
+      "high": 1474.0,
+      "low": 1474.0,
+      "close": 1474.0,
+      "volume": 0
+    },
+    {
+      "time": "21:17:00",
+      "timestamp": 1784215020,
+      "open": 1474.0,
+      "high": 1474.0,
+      "low": 1474.0,
+      "close": 1474.0,
+      "volume": 0
+    },
+    {
+      "time": "21:20:00",
+      "timestamp": 1784215200,
+      "open": 1474.0,
+      "high": 1474.0,
+      "low": 1474.0,
+      "close": 1474.0,
+      "volume": 0
+    },
+    {
+      "time": "21:27:00",
+      "timestamp": 1784215620,
+      "open": 1473.5,
+      "high": 1473.5,
+      "low": 1473.5,
+      "close": 1473.5,
+      "volume": 0
+    },
+    {
+      "time": "21:59:00",
+      "timestamp": 1784217540,
+      "open": 1474.5,
+      "high": 1474.5,
+      "low": 1474.5,
+      "close": 1474.5,
+      "volume": 0
+    },
+    {
+      "time": "22:00:06",
+      "timestamp": 1784217606,
+      "open": 1474.5,
+      "high": 1474.5,
+      "low": 1474.5,
+      "close": 1474.5,
       "volume": 0
     }
   ],
