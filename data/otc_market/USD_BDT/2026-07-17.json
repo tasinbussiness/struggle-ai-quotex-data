@@ -1,7 +1,7 @@
 {
   "pair": "USD/BDT-OTC",
   "market_type": "otc",
-  "last_updated": "2026-07-17 00:47:32",
+  "last_updated": "2026-07-17 01:51:38",
   "candles": [
     {
       "time": "07:04:00",
@@ -274,8 +274,44 @@
       "volume": 0
     },
     {
-      "time": "00:40:47",
-      "timestamp": 1784227247,
+      "time": "00:40:00",
+      "timestamp": 1784227200,
+      "open": 123.25,
+      "high": 123.25,
+      "low": 123.25,
+      "close": 123.25,
+      "volume": 0
+    },
+    {
+      "time": "00:47:00",
+      "timestamp": 1784227620,
+      "open": 123.25,
+      "high": 123.25,
+      "low": 123.25,
+      "close": 123.25,
+      "volume": 0
+    },
+    {
+      "time": "00:48:00",
+      "timestamp": 1784227680,
+      "open": 123.25,
+      "high": 123.25,
+      "low": 123.25,
+      "close": 123.25,
+      "volume": 0
+    },
+    {
+      "time": "01:37:00",
+      "timestamp": 1784230620,
+      "open": 123.25,
+      "high": 123.25,
+      "low": 123.25,
+      "close": 123.25,
+      "volume": 0
+    },
+    {
+      "time": "01:37:08",
+      "timestamp": 1784230628,
       "open": 123.25,
       "high": 123.25,
       "low": 123.25,
