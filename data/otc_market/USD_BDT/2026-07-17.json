@@ -1,7 +1,7 @@
 {
   "pair": "USD/BDT-OTC",
   "market_type": "otc",
-  "last_updated": "2026-07-17 20:03:39",
+  "last_updated": "2026-07-17 21:34:50",
   "candles": [
     {
       "time": "06:19:00",
@@ -186,6 +186,15 @@
     {
       "time": "19:27:00",
       "timestamp": 1784294820,
+      "open": 123.25,
+      "high": 123.25,
+      "low": 123.25,
+      "close": 123.25,
+      "volume": 0
+    },
+    {
+      "time": "19:35:00",
+      "timestamp": 1784295300,
       "open": 123.25,
       "high": 123.25,
       "low": 123.25,
