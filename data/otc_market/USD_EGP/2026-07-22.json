@@ -1,7 +1,7 @@
 {
   "pair": "USD/EGP-OTC",
   "market_type": "otc",
-  "last_updated": "2026-07-22 22:05:21",
+  "last_updated": "2026-07-22 23:39:13",
   "candles": [
     {
       "time": "05:02:00",
@@ -339,6 +339,15 @@
     {
       "time": "21:42:00",
       "timestamp": 1784734920,
+      "open": 51.25,
+      "high": 51.25,
+      "low": 51.25,
+      "close": 51.25,
+      "volume": 0
+    },
+    {
+      "time": "21:48:00",
+      "timestamp": 1784735280,
       "open": 51.25,
       "high": 51.25,
       "low": 51.25,
