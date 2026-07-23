@@ -1,0 +1,107 @@
+{
+  "pair": "USD/EGP-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-07-24 00:16:10",
+  "candles": [
+    {
+      "time": "09:12:00",
+      "timestamp": 1784776320,
+      "open": 51.25,
+      "high": 51.25,
+      "low": 51.25,
+      "close": 51.25,
+      "volume": 0
+    },
+    {
+      "time": "09:14:00",
+      "timestamp": 1784776440,
+      "open": 51.25,
+      "high": 51.25,
+      "low": 51.25,
+      "close": 51.25,
+      "volume": 0
+    },
+    {
+      "time": "20:04:00",
+      "timestamp": 1784815440,
+      "open": 51.25,
+      "high": 51.25,
+      "low": 51.25,
+      "close": 51.25,
+      "volume": 0
+    },
+    {
+      "time": "20:27:00",
+      "timestamp": 1784816820,
+      "open": 51.25,
+      "high": 51.25,
+      "low": 51.25,
+      "close": 51.25,
+      "volume": 0
+    },
+    {
+      "time": "21:14:00",
+      "timestamp": 1784819640,
+      "open": 51.25,
+      "high": 51.25,
+      "low": 51.25,
+      "close": 51.25,
+      "volume": 0
+    },
+    {
+      "time": "22:55:00",
+      "timestamp": 1784825700,
+      "open": 51.25,
+      "high": 51.25,
+      "low": 51.25,
+      "close": 51.25,
+      "volume": 0
+    },
+    {
+      "time": "23:10:00",
+      "timestamp": 1784826600,
+      "open": 51.25,
+      "high": 51.25,
+      "low": 51.25,
+      "close": 51.25,
+      "volume": 0
+    },
+    {
+      "time": "23:46:00",
+      "timestamp": 1784828760,
+      "open": 51.25,
+      "high": 51.25,
+      "low": 51.25,
+      "close": 51.25,
+      "volume": 0
+    },
+    {
+      "time": "23:48:00",
+      "timestamp": 1784828880,
+      "open": 51.25,
+      "high": 51.25,
+      "low": 51.25,
+      "close": 51.25,
+      "volume": 0
+    },
+    {
+      "time": "00:09:00",
+      "timestamp": 1784830140,
+      "open": 51.25,
+      "high": 51.25,
+      "low": 51.25,
+      "close": 51.25,
+      "volume": 0
+    },
+    {
+      "time": "00:13:38",
+      "timestamp": 1784830418,
+      "open": 51.25,
+      "high": 51.25,
+      "low": 51.25,
+      "close": 51.25,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}
