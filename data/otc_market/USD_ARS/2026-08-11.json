@@ -1,7 +1,7 @@
 {
   "pair": "USD/ARS-OTC",
   "market_type": "otc",
-  "last_updated": "2026-08-11 20:45:37",
+  "last_updated": "2026-08-11 21:43:07",
   "candles": [
     {
       "time": "08:06:00",
@@ -148,12 +148,57 @@
       "volume": 0
     },
     {
-      "time": "19:59:01",
-      "timestamp": 1786456741,
+      "time": "20:52:00",
+      "timestamp": 1786459920,
       "open": 1493.5,
       "high": 1493.5,
       "low": 1493.5,
       "close": 1493.5,
+      "volume": 0
+    },
+    {
+      "time": "21:01:00",
+      "timestamp": 1786460460,
+      "open": 1493.5,
+      "high": 1493.5,
+      "low": 1493.5,
+      "close": 1493.5,
+      "volume": 0
+    },
+    {
+      "time": "21:04:00",
+      "timestamp": 1786460640,
+      "open": 1493.5,
+      "high": 1493.5,
+      "low": 1492.0,
+      "close": 1492.0,
+      "volume": 0
+    },
+    {
+      "time": "21:09:00",
+      "timestamp": 1786460940,
+      "open": 1492.0,
+      "high": 1492.0,
+      "low": 1492.0,
+      "close": 1492.0,
+      "volume": 0
+    },
+    {
+      "time": "21:16:00",
+      "timestamp": 1786461360,
+      "open": 1492.0,
+      "high": 1492.0,
+      "low": 1492.0,
+      "close": 1492.0,
+      "volume": 0
+    },
+    {
+      "time": "21:28:55",
+      "timestamp": 1786462135,
+      "open": 1492.0,
+      "high": 1492.0,
+      "low": 1492.0,
+      "close": 1492.0,
       "volume": 0
     }
   ],
