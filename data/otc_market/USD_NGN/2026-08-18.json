@@ -1,7 +1,7 @@
 {
   "pair": "USD/NGN-OTC",
   "market_type": "otc",
-  "last_updated": "2026-08-18 20:21:23",
+  "last_updated": "2026-08-18 20:59:10",
   "candles": [
     {
       "time": "05:55:00",
@@ -139,8 +139,8 @@
       "volume": 0
     },
     {
-      "time": "19:46:37",
-      "timestamp": 1787060797,
+      "time": "20:41:02",
+      "timestamp": 1787064062,
       "open": 1347.75,
       "high": 1347.75,
       "low": 1347.75,
