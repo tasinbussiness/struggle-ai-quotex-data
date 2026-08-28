@@ -1,0 +1,26 @@
+{
+  "pair": "USD/PKR-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-08-28 07:01:54",
+  "candles": [
+    {
+      "time": "05:31:00",
+      "timestamp": 1787873460,
+      "open": 277.2300109863281,
+      "high": 277.2300109863281,
+      "low": 277.2300109863281,
+      "close": 277.2300109863281,
+      "volume": 0
+    },
+    {
+      "time": "05:31:23",
+      "timestamp": 1787873483,
+      "open": 277.2300109863281,
+      "high": 277.2300109863281,
+      "low": 277.2300109863281,
+      "close": 277.2300109863281,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}
