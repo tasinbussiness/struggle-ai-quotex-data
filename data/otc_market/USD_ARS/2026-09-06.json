@@ -1,7 +1,7 @@
 {
   "pair": "USD/ARS-OTC",
   "market_type": "otc",
-  "last_updated": "2026-09-06 20:24:31",
+  "last_updated": "2026-09-06 23:15:10",
   "candles": [
     {
       "time": "05:50:00",
@@ -393,15 +393,6 @@
     {
       "time": "01:10:00",
       "timestamp": 1788549000,
-      "open": 1508.5,
-      "high": 1508.5,
-      "low": 1508.5,
-      "close": 1508.5,
-      "volume": 0
-    },
-    {
-      "time": "04:59:00",
-      "timestamp": 1788562740,
       "open": 1508.5,
       "high": 1508.5,
       "low": 1508.5,
