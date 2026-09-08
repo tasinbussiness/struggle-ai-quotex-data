@@ -1,7 +1,7 @@
 {
   "pair": "USD/ARS-OTC",
   "market_type": "otc",
-  "last_updated": "2026-09-08 15:50:31",
+  "last_updated": "2026-09-08 19:57:39",
   "candles": [
     {
       "time": "06:45:00",
@@ -49,12 +49,84 @@
       "volume": 0
     },
     {
-      "time": "07:36:44",
-      "timestamp": 1788831404,
-      "open": 1511.0,
-      "high": 1511.0,
-      "low": 1511.0,
-      "close": 1511.0,
+      "time": "19:01:00",
+      "timestamp": 1788872460,
+      "open": 1500.0,
+      "high": 1500.0,
+      "low": 1500.0,
+      "close": 1500.0,
+      "volume": 0
+    },
+    {
+      "time": "19:08:00",
+      "timestamp": 1788872880,
+      "open": 1500.0,
+      "high": 1500.0,
+      "low": 1500.0,
+      "close": 1500.0,
+      "volume": 0
+    },
+    {
+      "time": "19:09:00",
+      "timestamp": 1788872940,
+      "open": 1500.0,
+      "high": 1500.0,
+      "low": 1500.0,
+      "close": 1500.0,
+      "volume": 0
+    },
+    {
+      "time": "19:11:00",
+      "timestamp": 1788873060,
+      "open": 1506.0,
+      "high": 1506.0,
+      "low": 1506.0,
+      "close": 1506.0,
+      "volume": 0
+    },
+    {
+      "time": "19:30:00",
+      "timestamp": 1788874200,
+      "open": 1506.0,
+      "high": 1506.0,
+      "low": 1506.0,
+      "close": 1506.0,
+      "volume": 0
+    },
+    {
+      "time": "19:31:00",
+      "timestamp": 1788874260,
+      "open": 1506.0,
+      "high": 1506.0,
+      "low": 1506.0,
+      "close": 1506.0,
+      "volume": 0
+    },
+    {
+      "time": "19:32:00",
+      "timestamp": 1788874320,
+      "open": 1506.0,
+      "high": 1506.0,
+      "low": 1506.0,
+      "close": 1506.0,
+      "volume": 0
+    },
+    {
+      "time": "19:34:00",
+      "timestamp": 1788874440,
+      "open": 1506.0,
+      "high": 1506.0,
+      "low": 1506.0,
+      "close": 1506.0,
+      "volume": 0
+    },
+    {
+      "time": "19:40:50",
+      "timestamp": 1788874850,
+      "open": 1506.0,
+      "high": 1506.0,
+      "low": 1506.0,
+      "close": 1506.0,
       "volume": 0
     }
   ],
