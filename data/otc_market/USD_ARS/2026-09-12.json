@@ -1,0 +1,350 @@
+{
+  "pair": "USD/ARS-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-09-12 02:07:32",
+  "candles": [
+    {
+      "time": "07:24:00",
+      "timestamp": 1789089840,
+      "open": 1512.5,
+      "high": 1512.5,
+      "low": 1512.5,
+      "close": 1512.5,
+      "volume": 0
+    },
+    {
+      "time": "08:00:00",
+      "timestamp": 1789092000,
+      "open": 1512.5,
+      "high": 1512.5,
+      "low": 1512.5,
+      "close": 1512.5,
+      "volume": 0
+    },
+    {
+      "time": "19:02:00",
+      "timestamp": 1789131720,
+      "open": 1500.0,
+      "high": 1500.0,
+      "low": 1500.0,
+      "close": 1500.0,
+      "volume": 0
+    },
+    {
+      "time": "19:32:00",
+      "timestamp": 1789133520,
+      "open": 1511.0,
+      "high": 1511.0,
+      "low": 1511.0,
+      "close": 1511.0,
+      "volume": 0
+    },
+    {
+      "time": "19:48:00",
+      "timestamp": 1789134480,
+      "open": 1511.0,
+      "high": 1511.5,
+      "low": 1511.0,
+      "close": 1511.5,
+      "volume": 0
+    },
+    {
+      "time": "20:00:00",
+      "timestamp": 1789135200,
+      "open": 1511.5,
+      "high": 1511.5,
+      "low": 1511.5,
+      "close": 1511.5,
+      "volume": 0
+    },
+    {
+      "time": "20:19:00",
+      "timestamp": 1789136340,
+      "open": 1511.5,
+      "high": 1511.5,
+      "low": 1511.5,
+      "close": 1511.5,
+      "volume": 0
+    },
+    {
+      "time": "20:21:00",
+      "timestamp": 1789136460,
+      "open": 1511.5,
+      "high": 1512.0,
+      "low": 1511.5,
+      "close": 1512.0,
+      "volume": 0
+    },
+    {
+      "time": "20:28:00",
+      "timestamp": 1789136880,
+      "open": 1513.0,
+      "high": 1513.0,
+      "low": 1512.0,
+      "close": 1512.0,
+      "volume": 0
+    },
+    {
+      "time": "20:29:00",
+      "timestamp": 1789136940,
+      "open": 1512.0,
+      "high": 1512.0,
+      "low": 1512.0,
+      "close": 1512.0,
+      "volume": 0
+    },
+    {
+      "time": "20:33:00",
+      "timestamp": 1789137180,
+      "open": 1512.0,
+      "high": 1512.0,
+      "low": 1512.0,
+      "close": 1512.0,
+      "volume": 0
+    },
+    {
+      "time": "20:47:00",
+      "timestamp": 1789138020,
+      "open": 1512.0,
+      "high": 1512.0,
+      "low": 1512.0,
+      "close": 1512.0,
+      "volume": 0
+    },
+    {
+      "time": "20:49:00",
+      "timestamp": 1789138140,
+      "open": 1511.5,
+      "high": 1511.5,
+      "low": 1511.5,
+      "close": 1511.5,
+      "volume": 0
+    },
+    {
+      "time": "20:58:00",
+      "timestamp": 1789138680,
+      "open": 1511.5,
+      "high": 1511.5,
+      "low": 1511.5,
+      "close": 1511.5,
+      "volume": 0
+    },
+    {
+      "time": "21:06:00",
+      "timestamp": 1789139160,
+      "open": 1511.5,
+      "high": 1511.5,
+      "low": 1511.5,
+      "close": 1511.5,
+      "volume": 0
+    },
+    {
+      "time": "21:10:00",
+      "timestamp": 1789139400,
+      "open": 1512.0,
+      "high": 1512.0,
+      "low": 1512.0,
+      "close": 1512.0,
+      "volume": 0
+    },
+    {
+      "time": "21:18:00",
+      "timestamp": 1789139880,
+      "open": 1511.5,
+      "high": 1511.5,
+      "low": 1511.5,
+      "close": 1511.5,
+      "volume": 0
+    },
+    {
+      "time": "21:22:00",
+      "timestamp": 1789140120,
+      "open": 1511.5,
+      "high": 1511.5,
+      "low": 1511.5,
+      "close": 1511.5,
+      "volume": 0
+    },
+    {
+      "time": "21:23:00",
+      "timestamp": 1789140180,
+      "open": 1511.5,
+      "high": 1511.5,
+      "low": 1511.5,
+      "close": 1511.5,
+      "volume": 0
+    },
+    {
+      "time": "21:27:00",
+      "timestamp": 1789140420,
+      "open": 1511.5,
+      "high": 1511.5,
+      "low": 1511.5,
+      "close": 1511.5,
+      "volume": 0
+    },
+    {
+      "time": "21:31:00",
+      "timestamp": 1789140660,
+      "open": 1511.5,
+      "high": 1511.5,
+      "low": 1511.5,
+      "close": 1511.5,
+      "volume": 0
+    },
+    {
+      "time": "21:32:00",
+      "timestamp": 1789140720,
+      "open": 1511.25,
+      "high": 1511.25,
+      "low": 1511.25,
+      "close": 1511.25,
+      "volume": 0
+    },
+    {
+      "time": "22:04:00",
+      "timestamp": 1789142640,
+      "open": 1510.5,
+      "high": 1510.5,
+      "low": 1510.5,
+      "close": 1510.5,
+      "volume": 0
+    },
+    {
+      "time": "22:18:00",
+      "timestamp": 1789143480,
+      "open": 1510.0,
+      "high": 1510.0,
+      "low": 1510.0,
+      "close": 1510.0,
+      "volume": 0
+    },
+    {
+      "time": "22:27:00",
+      "timestamp": 1789144020,
+      "open": 1510.0,
+      "high": 1510.0,
+      "low": 1510.0,
+      "close": 1510.0,
+      "volume": 0
+    },
+    {
+      "time": "22:54:00",
+      "timestamp": 1789145640,
+      "open": 1510.0,
+      "high": 1510.0,
+      "low": 1510.0,
+      "close": 1510.0,
+      "volume": 0
+    },
+    {
+      "time": "23:09:00",
+      "timestamp": 1789146540,
+      "open": 1508.0,
+      "high": 1508.0,
+      "low": 1508.0,
+      "close": 1508.0,
+      "volume": 0
+    },
+    {
+      "time": "23:10:00",
+      "timestamp": 1789146600,
+      "open": 1508.0,
+      "high": 1508.0,
+      "low": 1508.0,
+      "close": 1508.0,
+      "volume": 0
+    },
+    {
+      "time": "23:18:00",
+      "timestamp": 1789147080,
+      "open": 1508.5,
+      "high": 1508.5,
+      "low": 1508.5,
+      "close": 1508.5,
+      "volume": 0
+    },
+    {
+      "time": "23:39:00",
+      "timestamp": 1789148340,
+      "open": 1508.5,
+      "high": 1508.5,
+      "low": 1508.5,
+      "close": 1508.5,
+      "volume": 0
+    },
+    {
+      "time": "23:46:00",
+      "timestamp": 1789148760,
+      "open": 1508.0,
+      "high": 1508.0,
+      "low": 1508.0,
+      "close": 1508.0,
+      "volume": 0
+    },
+    {
+      "time": "23:50:00",
+      "timestamp": 1789149000,
+      "open": 1508.0,
+      "high": 1508.0,
+      "low": 1508.0,
+      "close": 1508.0,
+      "volume": 0
+    },
+    {
+      "time": "23:52:00",
+      "timestamp": 1789149120,
+      "open": 1508.0,
+      "high": 1508.0,
+      "low": 1508.0,
+      "close": 1508.0,
+      "volume": 0
+    },
+    {
+      "time": "23:56:00",
+      "timestamp": 1789149360,
+      "open": 1508.0,
+      "high": 1508.0,
+      "low": 1508.0,
+      "close": 1508.0,
+      "volume": 0
+    },
+    {
+      "time": "23:57:00",
+      "timestamp": 1789149420,
+      "open": 1508.0,
+      "high": 1508.0,
+      "low": 1508.0,
+      "close": 1508.0,
+      "volume": 0
+    },
+    {
+      "time": "23:59:00",
+      "timestamp": 1789149540,
+      "open": 1508.5,
+      "high": 1508.5,
+      "low": 1508.5,
+      "close": 1508.5,
+      "volume": 0
+    },
+    {
+      "time": "00:00:00",
+      "timestamp": 1789149600,
+      "open": 1508.5,
+      "high": 1508.5,
+      "low": 1508.5,
+      "close": 1508.5,
+      "volume": 0
+    },
+    {
+      "time": "00:00:48",
+      "timestamp": 1789149648,
+      "open": 1508.5,
+      "high": 1508.5,
+      "low": 1508.5,
+      "close": 1508.5,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}
