@@ -1,0 +1,215 @@
+{
+  "pair": "USD/ARS-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-09-29 03:55:44",
+  "candles": [
+    {
+      "time": "05:45:00",
+      "timestamp": 1790552700,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "05:54:00",
+      "timestamp": 1790553240,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "06:39:00",
+      "timestamp": 1790555940,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "06:40:00",
+      "timestamp": 1790556000,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "06:48:00",
+      "timestamp": 1790556480,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "08:10:00",
+      "timestamp": 1790561400,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "08:11:00",
+      "timestamp": 1790561460,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "08:22:00",
+      "timestamp": 1790562120,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "08:49:00",
+      "timestamp": 1790563740,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "09:12:00",
+      "timestamp": 1790565120,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "09:54:00",
+      "timestamp": 1790567640,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "19:18:00",
+      "timestamp": 1790601480,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "19:47:00",
+      "timestamp": 1790603220,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "20:11:00",
+      "timestamp": 1790604660,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "20:52:00",
+      "timestamp": 1790607120,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "23:52:00",
+      "timestamp": 1790617920,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "00:36:00",
+      "timestamp": 1790620560,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "00:48:00",
+      "timestamp": 1790621280,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "01:05:00",
+      "timestamp": 1790622300,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "01:49:00",
+      "timestamp": 1790624940,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "02:17:00",
+      "timestamp": 1790626620,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "03:18:00",
+      "timestamp": 1790630280,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    },
+    {
+      "time": "03:37:34",
+      "timestamp": 1790631454,
+      "open": 1524.5,
+      "high": 1524.5,
+      "low": 1524.5,
+      "close": 1524.5,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}
