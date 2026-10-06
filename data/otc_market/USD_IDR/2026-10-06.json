@@ -1,0 +1,134 @@
+{
+  "pair": "USD/IDR-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-10-06 09:08:38",
+  "candles": [
+    {
+      "time": "05:18:00",
+      "timestamp": 1791242280,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "06:02:00",
+      "timestamp": 1791244920,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "06:13:00",
+      "timestamp": 1791245580,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "06:14:00",
+      "timestamp": 1791245640,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "06:15:00",
+      "timestamp": 1791245700,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "06:27:00",
+      "timestamp": 1791246420,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "06:36:00",
+      "timestamp": 1791246960,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "06:37:00",
+      "timestamp": 1791247020,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "06:51:00",
+      "timestamp": 1791247860,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "07:51:00",
+      "timestamp": 1791251460,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "08:11:00",
+      "timestamp": 1791252660,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "08:42:00",
+      "timestamp": 1791254520,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "08:46:00",
+      "timestamp": 1791254760,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    },
+    {
+      "time": "08:46:29",
+      "timestamp": 1791254789,
+      "open": 17912.0,
+      "high": 17912.0,
+      "low": 17912.0,
+      "close": 17912.0,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}
