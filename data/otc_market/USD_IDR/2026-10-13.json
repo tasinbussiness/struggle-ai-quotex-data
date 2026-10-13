@@ -1,0 +1,98 @@
+{
+  "pair": "USD/IDR-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-10-13 09:37:07",
+  "candles": [
+    {
+      "time": "06:08:00",
+      "timestamp": 1791850080,
+      "open": 17894.0,
+      "high": 17894.0,
+      "low": 17894.0,
+      "close": 17894.0,
+      "volume": 0
+    },
+    {
+      "time": "06:09:00",
+      "timestamp": 1791850140,
+      "open": 17894.0,
+      "high": 17894.0,
+      "low": 17894.0,
+      "close": 17894.0,
+      "volume": 0
+    },
+    {
+      "time": "06:13:00",
+      "timestamp": 1791850380,
+      "open": 17894.0,
+      "high": 17894.0,
+      "low": 17894.0,
+      "close": 17894.0,
+      "volume": 0
+    },
+    {
+      "time": "07:12:00",
+      "timestamp": 1791853920,
+      "open": 17894.0,
+      "high": 17894.0,
+      "low": 17894.0,
+      "close": 17894.0,
+      "volume": 0
+    },
+    {
+      "time": "07:14:00",
+      "timestamp": 1791854040,
+      "open": 17894.0,
+      "high": 17894.0,
+      "low": 17894.0,
+      "close": 17894.0,
+      "volume": 0
+    },
+    {
+      "time": "07:35:00",
+      "timestamp": 1791855300,
+      "open": 17894.0,
+      "high": 17894.0,
+      "low": 17894.0,
+      "close": 17894.0,
+      "volume": 0
+    },
+    {
+      "time": "08:25:00",
+      "timestamp": 1791858300,
+      "open": 17894.0,
+      "high": 17894.0,
+      "low": 17894.0,
+      "close": 17894.0,
+      "volume": 0
+    },
+    {
+      "time": "08:26:00",
+      "timestamp": 1791858360,
+      "open": 17894.0,
+      "high": 17894.0,
+      "low": 17894.0,
+      "close": 17894.0,
+      "volume": 0
+    },
+    {
+      "time": "09:30:00",
+      "timestamp": 1791862200,
+      "open": 17900.0,
+      "high": 17900.0,
+      "low": 17900.0,
+      "close": 17900.0,
+      "volume": 0
+    },
+    {
+      "time": "09:34:40",
+      "timestamp": 1791862480,
+      "open": 17930.0,
+      "high": 17930.0,
+      "low": 17930.0,
+      "close": 17930.0,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}
