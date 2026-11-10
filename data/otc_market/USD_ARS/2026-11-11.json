@@ -1,0 +1,89 @@
+{
+  "pair": "USD/ARS-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-11-11 00:09:28",
+  "candles": [
+    {
+      "time": "07:00:00",
+      "timestamp": 1794272400,
+      "open": 1545.25,
+      "high": 1545.25,
+      "low": 1545.25,
+      "close": 1545.25,
+      "volume": 0
+    },
+    {
+      "time": "08:25:00",
+      "timestamp": 1794277500,
+      "open": 1545.25,
+      "high": 1545.25,
+      "low": 1545.25,
+      "close": 1545.25,
+      "volume": 0
+    },
+    {
+      "time": "09:55:00",
+      "timestamp": 1794282900,
+      "open": 1545.25,
+      "high": 1545.25,
+      "low": 1545.25,
+      "close": 1545.25,
+      "volume": 0
+    },
+    {
+      "time": "21:47:00",
+      "timestamp": 1794325620,
+      "open": 1545.25,
+      "high": 1545.25,
+      "low": 1545.25,
+      "close": 1545.25,
+      "volume": 0
+    },
+    {
+      "time": "22:16:00",
+      "timestamp": 1794327360,
+      "open": 1545.25,
+      "high": 1545.25,
+      "low": 1545.25,
+      "close": 1545.25,
+      "volume": 0
+    },
+    {
+      "time": "22:17:00",
+      "timestamp": 1794327420,
+      "open": 1545.25,
+      "high": 1545.25,
+      "low": 1545.25,
+      "close": 1545.25,
+      "volume": 0
+    },
+    {
+      "time": "22:57:00",
+      "timestamp": 1794329820,
+      "open": 1545.25,
+      "high": 1545.25,
+      "low": 1545.25,
+      "close": 1545.25,
+      "volume": 0
+    },
+    {
+      "time": "23:23:00",
+      "timestamp": 1794331380,
+      "open": 1545.25,
+      "high": 1545.25,
+      "low": 1545.25,
+      "close": 1545.25,
+      "volume": 0
+    },
+    {
+      "time": "00:08:08",
+      "timestamp": 1794334088,
+      "open": 1545.25,
+      "high": 1545.25,
+      "low": 1545.25,
+      "close": 1545.25,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}
