@@ -1,0 +1,17 @@
+{
+  "pair": "NZD/CHF-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-11-12 06:00:26",
+  "candles": [
+    {
+      "time": "06:00:25",
+      "timestamp": 1794441625,
+      "open": 0.46303001046180725,
+      "high": 0.46303001046180725,
+      "low": 0.46303001046180725,
+      "close": 0.46303001046180725,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}

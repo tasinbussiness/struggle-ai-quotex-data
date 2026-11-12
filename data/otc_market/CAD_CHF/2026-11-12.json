@@ -1,0 +1,17 @@
+{
+  "pair": "CAD/CHF-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-11-12 06:00:26",
+  "candles": [
+    {
+      "time": "06:00:23",
+      "timestamp": 1794441623,
+      "open": 0.5842300057411194,
+      "high": 0.5842300057411194,
+      "low": 0.5842300057411194,
+      "close": 0.5842300057411194,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}

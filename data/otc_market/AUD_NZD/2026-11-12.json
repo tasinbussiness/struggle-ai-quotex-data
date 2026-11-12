@@ -1,0 +1,17 @@
+{
+  "pair": "AUD/NZD-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-11-12 06:00:27",
+  "candles": [
+    {
+      "time": "06:00:26",
+      "timestamp": 1794441626,
+      "open": 1.2303500175476074,
+      "high": 1.2303500175476074,
+      "low": 1.2303500175476074,
+      "close": 1.2303500175476074,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}

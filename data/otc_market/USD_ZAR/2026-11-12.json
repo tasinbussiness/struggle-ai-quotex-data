@@ -1,0 +1,17 @@
+{
+  "pair": "USD/ZAR-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-11-12 06:00:27",
+  "candles": [
+    {
+      "time": "06:00:25",
+      "timestamp": 1794441625,
+      "open": 16.604400634765625,
+      "high": 16.604400634765625,
+      "low": 16.604400634765625,
+      "close": 16.604400634765625,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}

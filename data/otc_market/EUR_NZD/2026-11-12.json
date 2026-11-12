@@ -1,0 +1,17 @@
+{
+  "pair": "EUR/NZD-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-11-12 06:00:26",
+  "candles": [
+    {
+      "time": "06:00:24",
+      "timestamp": 1794441624,
+      "open": 1.9938499927520752,
+      "high": 1.9938499927520752,
+      "low": 1.9938499927520752,
+      "close": 1.9938499927520752,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}

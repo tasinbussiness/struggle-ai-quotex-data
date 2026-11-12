@@ -1,0 +1,17 @@
+{
+  "pair": "GBP/NZD-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-11-12 06:00:28",
+  "candles": [
+    {
+      "time": "06:00:27",
+      "timestamp": 1794441627,
+      "open": 2.3863298892974854,
+      "high": 2.3863298892974854,
+      "low": 2.3863298892974854,
+      "close": 2.3863298892974854,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}

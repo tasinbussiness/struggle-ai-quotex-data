@@ -1,0 +1,17 @@
+{
+  "pair": "NZD/JPY-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-11-12 06:00:26",
+  "candles": [
+    {
+      "time": "06:00:25",
+      "timestamp": 1794441625,
+      "open": 88.85299682617188,
+      "high": 88.85299682617188,
+      "low": 88.85299682617188,
+      "close": 88.85299682617188,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}

@@ -1,0 +1,17 @@
+{
+  "pair": "NZD/CAD-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-11-12 06:00:27",
+  "candles": [
+    {
+      "time": "06:00:25",
+      "timestamp": 1794441625,
+      "open": 0.7924299836158752,
+      "high": 0.7924299836158752,
+      "low": 0.7924299836158752,
+      "close": 0.7924299836158752,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}

@@ -1,0 +1,17 @@
+{
+  "pair": "USD/DZD-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-11-12 06:00:27",
+  "candles": [
+    {
+      "time": "06:00:24",
+      "timestamp": 1794441624,
+      "open": 136.12399291992188,
+      "high": 136.12399291992188,
+      "low": 136.12399291992188,
+      "close": 136.12399291992188,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}

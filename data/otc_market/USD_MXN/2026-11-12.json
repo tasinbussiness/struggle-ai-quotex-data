@@ -1,0 +1,17 @@
+{
+  "pair": "USD/MXN-OTC",
+  "market_type": "otc",
+  "last_updated": "2026-11-12 06:00:27",
+  "candles": [
+    {
+      "time": "06:00:26",
+      "timestamp": 1794441626,
+      "open": 18.62299919128418,
+      "high": 18.62299919128418,
+      "low": 18.62299919128418,
+      "close": 18.62299919128418,
+      "volume": 0
+    }
+  ],
+  "note": "OTC simulated from real market data"
+}
